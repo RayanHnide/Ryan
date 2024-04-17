@@ -27,6 +27,7 @@ import order from "../../assets/img/delevery.png";
 import logic from "../../assets/img/logic.png";
 import crud from "../../assets/img/crud.png";
 import instorMockup from "../../assets/img/Reve.png";
+import cobyte from "../../assets/img/cobyte.png";
 import silentmoonMockup from "../../assets/img/xcore.png";
 import Day from "../../assets/img/DayProject.png";
 import Global_school from "../../assets/img/gobal_school.png";
@@ -128,6 +129,33 @@ export const projectsData = [
       second: "secondary-btn",
       icon: "white",
       projectcolor: "#FFD5BD",
+    },
+  },
+  {
+    title: "CoByte Website",
+    description:'',
+    repo:'',
+    description_EN:'',
+    technologies: [
+      { name: "Html", icon: htmlicon },
+      { name: "CSS", icon: cssicon },
+      { name: "JavaScript", icon: javascripticon },
+      { name: "React", icon: reacticon },
+      { name: "Next Js", icon: nextjsicon },
+      { name: "Axios", icon: axiosicon },
+      { name: "Type Script", icon: typescripticon },
+      { name: "Node.js", icon: nodejsicon },
+    ],
+    image: cobyte,
+    deploymenturl: "https://cobyte01.com/en",
+
+    githubicon: FiGithub,
+    deploymenticon: FiLink,
+    colors: {
+      main: "main-btn",
+      second: "secondary-btn",
+      icon: "white",
+      projectcolor: "#E3964A",
     },
   },
   {
