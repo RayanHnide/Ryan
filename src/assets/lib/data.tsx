@@ -2,6 +2,7 @@ import adobexdicon from "../../assets/icons/adobexdicon.svg";
 import figmaicon from "../../assets/icons/figmaicon.svg";
 import bootstarpicon from "../../assets/icons/Untitled.png";
 import htmlicon from "../../assets/icons/htmlicon.svg";
+import gspaicon from "../../assets/icons/gsap-logo.jpg";
 import cssicon from "../../assets/icons/cssicon.svg";
 import reduxixon from "../../assets/icons/Redux.png";
 
