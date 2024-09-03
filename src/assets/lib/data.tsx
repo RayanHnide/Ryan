@@ -371,6 +371,12 @@ export const skillsDataWeb = [
         icon: htmlicon,
         color: "#F1662A",
       },
+        {
+        title: "GSAP",
+        hash: "#GSAP",
+        icon: gsapicon,
+        color: "#F1662A",
+      },
       {
         title: "CSS",
         hash: "#CSS",
