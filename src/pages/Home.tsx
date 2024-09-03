@@ -30,14 +30,14 @@ const Home: React.FC = () => {
             height={10}
             smoothness={true}
           />
-          <Suspense fallback={<div>Loading...</div>}>
+          <Suspense fallback={<div>Loading.asjbdghasdgjhasdfjhasgdjashdfjashdgjashgjhasdgjadsh..</div>}>
             <LazySiteBarLeft />
             <LazyHeaderIntro />
             <LazySiteBarRight />
           </Suspense>
         </header>
         <main className="relative">
-          <Suspense fallback={<div>Loading...</div>}>
+          <Suspense fallback={<div>Loading.ashdgajdshfjasdhgajdshgajsdhgajsdhgasdjh..</div>}>
             <LazyBannerQuote
               style={"withBG"}
               quoteIndex={0}
